@@ -43,13 +43,6 @@ This project aims to deliver a comprehensive sales analysis using real-world bus
 
 ---
 
-## 📂 Files
-
-- `AdventureWorks.xlsm`: Source Excel file with dynamic dashboard and data model  
-- `Dashboard1.png`: Screenshot preview of the dashboard
-
----
-
 ## 📈 Use Cases
 
 This dashboard can be used for:
